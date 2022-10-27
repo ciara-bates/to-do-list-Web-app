@@ -1,8 +1,10 @@
-## Brief
-
-Take a to do list where the user can add tasks along with a time that they would like to allocate to them.
+### Learning basic web-app design 
+## Project Aims
+Make a to do list web-app where the user can add tasks along with a time that they would like to allocate to them.
 The user can cross off tasks (they're still displayed, but with a line through) and delete them altogether.
 When the user adds a task to the list, a gif is displayed at the bottom of the screen.
+
+## End Product: 
 
 ![web-app-image](https://user-images.githubusercontent.com/73170171/198347702-79903b46-834e-478e-8315-494d66762276.png)
 
