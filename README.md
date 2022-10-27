@@ -9,8 +9,7 @@ When the user adds a task to the list, a gif is displayed at the bottom of the s
 ![web-app-image](https://user-images.githubusercontent.com/73170171/198347702-79903b46-834e-478e-8315-494d66762276.png)
 
 
-## Coding
-*Highlight your approach to coding in this project.*
+## Coding Approach 
 - write the basic html with input box, button and list items
 - style the html in css
 - write main.js code to allow the user to cross out tasks, detele tasks and add tasks.
