@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir=ltr>
+
+    <head>
+        <meta charset ="utf-8">
+        <meta name="viewport" contents = "width=device-width, initial-scale=1.0">
+        <title>To Do List</title>
+        <link rel = "stylesheet" href= "style.css">
+        <script type = "module" src= "main.js"></script>
+    </head>
+
+    <body>
+
+        <div class = 'container'>
+            <div id=top-box class='header'>
+                <h2>TO DO LIST</h2>
+                <h3> Type in a task and the time you want to allocate to it. An 'instructional' gif will appear to help you complete your task! </h3>
+                <input type = 'text' id='item' placeholder = "Write new task..."/>
+                <select name="hours" id="hours">
+                    <option value="0" selected>0</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                </select>
+                <span> hours </span>
+                <select name="mins" id="mins">
+                    <option value="0" selected>0</option>
+                    <option value="15">15</option>
+                    <option value="30">30</option>
+                    <option value="45">45</option>
+                </select>
+                <span> mins </span>
+                <button id = "add-button" class = "listbox-add" title = "Add"> Add Task </button>
+            </div>
+            <ul id = 'list'></ul>
+        </div>
+
+
+        <div class = 'container2' >
+            <img id = 'gif'></img>
+        </div>
+
+    </body>
