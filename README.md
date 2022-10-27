@@ -4,6 +4,9 @@ Take a to do list where the user can add tasks along with a time that they would
 The user can cross off tasks (they're still displayed, but with a line through) and delete them altogether.
 When the user adds a task to the list, a gif is displayed at the bottom of the screen.
 
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 672.18 394.52"/>![image](https://user-images.githubusercontent.com/73170171/198347392-1f910dc1-0816-4a63-9490-eeb08497b7ae.png)
+
+
 ## Coding
 *Highlight your approach to coding in this project.*
 - write the basic html with input box, button and list items
